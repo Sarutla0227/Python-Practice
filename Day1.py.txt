@@ -1,0 +1,25 @@
+my_name = "Shreya!"
+print("Hello and welcome " + my_name + "!")
+
+age = 25 
+print('age', type(age))
+
+score = 9.5
+print( 'score', type(score))
+print(isinstance(score, float))
+print('score', type(score))
+
+name = 'Shreya Arutla'
+print(name[0])
+print(name[1])
+print(name[2])
+print(name[3])
+print(name[4])
+print(name[5])
+print(name[6])
+print(name[7])
+print(name[8])
+print(name[9])
+print(name[10])
+print(name[11])
+print(name[12])
