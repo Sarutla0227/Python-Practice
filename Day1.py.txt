@@ -27,6 +27,13 @@ print(name[12])
 
 my_str_1 = 'Hello' 
 my_str_2 = 'World'
-
+#Concatenation
 str_plus_str = my_str_1 +' '+ my_str_2
 print(str_plus_str)
+
+#concatenation between strings and integers
+name = 'Shreya'
+age = 24
+
+name_and_age = name + str(age)
+print(name_and_age)
